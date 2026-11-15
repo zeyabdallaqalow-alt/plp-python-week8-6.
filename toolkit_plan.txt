@@ -1,0 +1,26 @@
+
+WEEK 8 - PYTHON TOOLKIT PLAN
+
+1. Number Guessing Game
+The user tries to guess a secret number, and the program tells them if the guess is correct, too high or too low.
+Concepts: while loop, if/elif/else, integer input.
+
+2. To-Do List
+The user can add tasks, view tasks and remove tasks from a list.
+Concepts: lists, loops, conditionals.
+
+3. Simple Calculator
+The user enters two numbers and chooses addition, subtraction, multiplication or division.
+Concepts: if/elif/else, arithmetic, input, f-strings.
+
+MENU TEXT
+
+Welcome to My Python Toolkit!
+
+Choose a tool:
+1. Number Guessing Game
+2. To-Do List
+3. Simple Calculator
+4. Quit
+
+Enter your choice:
